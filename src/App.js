@@ -2,7 +2,7 @@ import './App.css';
 import {
   BrowserRouter as Router, Link, Route, Routes,
 } from 'react-router-dom';
-import Calculator from './components/Calculator';
+import Todo from './components/Todo';
 import Quote from './API/quote';
 import Home from './Home';
 
@@ -15,7 +15,7 @@ const App = () => (
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/calculator">Calculator</Link>
+            <Link to="/Todo">Todo</Link>
           </li>
           <li>
             <Link to="/quote">Quote</Link>
@@ -26,7 +26,7 @@ const App = () => (
       <h1>Math Matician</h1>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/calculator" element={<Calculator />} />
+        <Route path="/Todo" element={<Todo />} />
         <Route path="/quote" element={<Quote />} />
       </Routes>
     </div>
