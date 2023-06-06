@@ -1,8 +1,8 @@
 ul li {
-    color: white;
+  color: white;
 }
 
 .todo-list {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
