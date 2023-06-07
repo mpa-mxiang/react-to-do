@@ -1,5 +1,5 @@
 
-# Math-magician
+# react-to-do
 
 <a name="readme-top"></a>
 
@@ -30,9 +30,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Math Magician <a name="about-project"></a>
+# 📖 react-to-do <a name="about-project"></a>
 
-**Math Magician**
+**react-to-do**
 This is a project built with React.
 
 ## 🛠 Built With <a name="built-with">React</a>
