@@ -1,12 +1,12 @@
 
-# Math-magician
+# react-to-do
 
 <a name="readme-top"></a>
 
 <div align="center">
   <br/>
 
-  <h3><b> Math Magician</b></h3>
+  <h3><b>react-to-do</b></h3>
 
 </div>
 
@@ -30,9 +30,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Math Magician <a name="about-project"></a>
+# 📖 react-to-do <a name="about-project"></a>
 
-**Math Magician**
+**react-to-do**
 This is a project built with React.
 
 ## 🛠 Built With <a name="built-with">React</a>
